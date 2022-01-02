@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrielv0227 but you can call me Gaba!
+- 👋 Hi, I’m @gabrielv0227 but you can call me Gabe!
 - 👀 I’m interested in everything computers, pop culture, stocks, psychology, clean energy, and gaming!
 - 🌱 I’m currently learning further data structures in Java, coding in Python, Logisim, and assembly language!
 - 💞️ I’m looking to collaborate on projects that scratch the curious part of my brain 
